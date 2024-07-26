@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the target directory
-TARGET_DIR="/mnt/c/Users/dimit/Desktop/youtube_py/video_dir"
+TARGET_DIR="./video_dir"
 
 # Create the target directory if it doesn't exist
 if [ ! -d "$TARGET_DIR" ]; then

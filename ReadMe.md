@@ -43,7 +43,7 @@ C:\Users\User-Name> **cd Desktop\You-and-Tube**
 C:\Users\User-Name\Desktop\You-and-Tube>
 ```
 
-When you enter into the directory then run the script by using the command:
+When you enter into the directory run the script by using the command:
 
 ```bash
 powershell -ExecutionPolicy Bypass -File .\wav.ps1

@@ -34,7 +34,8 @@ and install the `yt-dlp` package in the `You-and-Tube` folder. <br>
 Next you need to create the `\win_wav_files` folder inside the `You-and-Tube`.<br>
 
 - On the Windows Start type _Windows Powershell_.
-- Enter to the path of interest: Example --> 
+- Enter to the path of interest: <br>
+**Example**
 ```bash
 C:\Users\User-Name> **cd Desktop\You-and-Tube**
 

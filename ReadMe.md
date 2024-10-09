@@ -29,8 +29,8 @@ for the mp4 files.
 
 ### Windows Users
 
-If you are a Windows User, you need to download the **ffmpeg-master-latest-win64-gpl** and intall 
-the `yt-dlp` package in the `You-and-Tube` folder.
+If you are a Windows User, you need to download the **ffmpeg-master-latest-win64-gpl** and install the `yt-dlp` package in the `You-and-Tube` folder.
+Next you need to create the `\win_wav_files` folder inside the `You-and-Tube`
 run the script by using the power shell with the command:
 
 - Enter command prompt

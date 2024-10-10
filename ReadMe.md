@@ -33,6 +33,17 @@ If you are a Windows User, you need to download the **ffmpeg-master-latest-win64
 and install the `yt-dlp` package in the `You-and-Tube` folder. <br>
 Next you need to create the `\win_wav_files` folder inside the `You-and-Tube`.<br>
 
+The path should look like this:
+```
+|-- ReadMe.md
+|-- ffmpeg-master-latest-win64-gpl
+|   `-- bin
+|       |-- ffmpeg.exe
+|       |-- ffplay.exe
+|       `-- ffprobe.exe
+|-- wav.ps1
+`-- win_wav_files
+```
 - On the Windows Start type _Windows Powershell_.
 - Type **cd** to get to the path of interest: <br>
 **Example**

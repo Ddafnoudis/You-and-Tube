@@ -1,4 +1,4 @@
-Write-Host "Hello Elisavet! Time to download some WAV files!"
+Write-Host "Hello! Time to download some WAV files!"
 
 Write-Host "" 
 

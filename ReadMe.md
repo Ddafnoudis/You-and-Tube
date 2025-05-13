@@ -9,7 +9,12 @@ This repository contains scripts for different tasks and softwares.
 - The `audio_youtube.sh` script: Download in mp3 format-> Linux Software
 - The `video_youtube.sh` script: Download in mp4 format -> Linux Software
 - The `wav.ps1` script: Downloads the files into the wav format-> Windows Software
-- The `requirements.txt` file: Contains the list of requirements. 
+- The `requirements.txt` file: Contains the list of requirements.
+
+## Useful commands
+1) --audio-format --> The format of the audio (quality,  f.x wav, mp3)
+2) --download-sections --> Downloads a specific range of the audio (It expects a string of float numbers)
+
 
 ## How it works:
 

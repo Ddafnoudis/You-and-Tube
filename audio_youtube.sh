@@ -24,7 +24,8 @@ if ! command -v yt-dlp &> /dev/null; then
 fi
 
 # Use yt-dlp to download the audio and convert it to MP3
-yt-dlp -x --audio-format mp3 "$url" -o "$TARGET_DIR/%(title)s.%(ext)s"
+# To specify the time range: --download-sections "min.sec-min.sec" specifies the time range to download after the --audio-format wav
+yt-dlp -x --audio-format wav "$url" -o "$TARGET_DIR/%(title)s.%(ext)s"
 
 # Print a completion message
 echo "Download and conversion complete. Files are saved in $TARGET_DIR."
